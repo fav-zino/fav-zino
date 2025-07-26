@@ -46,7 +46,7 @@ I'm a *Software Developer* who believes backend bugs are just misunderstood feat
 ---
 
 
-### 💬 Something Smart I Definitely Live By
+### 💬 Quotes I Pretend Guide My Life
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
