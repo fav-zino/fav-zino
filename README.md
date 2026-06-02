@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a *Software Developer* who believes backend bugs are just misunderstood features. I build mobile apps that don’t crash (often). I turn ideas into functional software. No blood sacrifices required. 
+Software Developer bridging the gap between mobile apps and scalable backend systems to build complete software.
 
 ---
 
